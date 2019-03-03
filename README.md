@@ -3,6 +3,8 @@
 List of services on stagenet and testnet networks for development and testing purposes of 
 monero-based tools. 
 
+This is the list of third party services, thus, for instance, offical monero command line and gui are not listed.
+
 ## Stagenet
 
 A network that matches the mainnet environment. Recomended network for
