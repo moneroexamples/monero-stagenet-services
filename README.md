@@ -32,6 +32,7 @@ more stable than testnet.
 #### Payment Solutions
 
  - [https://github.com/amiuhle/kasisto](https://github.com/amiuhle/kasisto) - Point of sell 
+ - [https://test.xmr.to/](https://test.xmr.to/) - Pay any BTC testned address with stagenet xmr
 
 #### Other
 
