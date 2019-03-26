@@ -26,7 +26,8 @@ more stable than testnet.
 
 #### Wallets
 
- - [http://139.162.60.17:81](http://139.162.60.17:81/#!/) - OpenMonero online wallet
+ - [OpenMonero](http://139.162.60.17:81/#!/) - OpenMonero online wallet
+ - [MyMonero on OpenMonero](http://139.162.60.17:9100/) - online wallet
  - [https://www.monerujo.io](https://www.monerujo.io/) - Android wallet
 
 #### Payment Solutions
