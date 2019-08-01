@@ -19,10 +19,10 @@ more stable than testnet.
 
 #### Blockchain Explorers
 
- - [https://stagenet.xmrchain.net/](https://stagenet.xmrchain.net/) - down
+ - [https://stagenet.xmrchain.net/](https://stagenet.xmrchain.net/) 
  - [http://139.162.60.17:8082/](http://139.162.60.17:8082/)
  - [http://162.210.173.150:8083/](http://162.210.173.150:8083/)
- - [https://community.xmr.to/explorer/stagenet/](https://community.xmr.to/explorer/stagenet/)
+ - [https://community.xmr.to/explorer/stagenet/](https://community.xmr.to/explorer/stagenet/) - down
 
 #### Wallets
 
