@@ -13,13 +13,13 @@ more stable than testnet.
 
 #### Faucets
 
- - [https://community.xmr.to/faucet/stagenet/](https://community.xmr.to/faucet/stagenet/)
- - [http://stagenet.xmr-tw.org:38085/](http://stagenet.xmr-tw.org:38085/)
+ - [https://community.xmr.to/faucet/stagenet/](https://community.xmr.to/faucet/stagenet/) - down
+ - [http://stagenet.xmr-tw.org:38085/](http://stagenet.xmr-tw.org:38085/) - down
  - [http://139.162.60.17:81](http://139.162.60.17:81/#!/) - OpenMonero online wallet (login using default seed and transfer out what you need)
 
 #### Blockchain Explorers
 
- - [https://stagenet.xmrchain.net/](https://stagenet.xmrchain.net/)
+ - [https://stagenet.xmrchain.net/](https://stagenet.xmrchain.net/) - down
  - [http://139.162.60.17:8082/](http://139.162.60.17:8082/)
  - [http://162.210.173.150:8083/](http://162.210.173.150:8083/)
  - [https://community.xmr.to/explorer/stagenet/](https://community.xmr.to/explorer/stagenet/)
@@ -46,8 +46,8 @@ one day.
 
 #### Faucets
 
- - [https://community.xmr.to/faucet/testnet/](https://community.xmr.to/faucet/testnet/)   
- - [https://dis.gratis/](https://dis.gratis/)
+ - [https://community.xmr.to/faucet/testnet/](https://community.xmr.to/faucet/testnet/)  - down 
+ - [https://dis.gratis/](https://dis.gratis/) - still on v9
 
 #### Blockchain Explorers
 
